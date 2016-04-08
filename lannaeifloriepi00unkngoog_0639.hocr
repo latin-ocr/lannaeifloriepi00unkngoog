@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeifloriepi00unkngoog/lannaeifloriepi00unkngoog_0639.png"; bbox 0 0 3234 4909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1298 1028 3168 4144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1298 1028 3168 4144">
+     <span class='ocr_line' id='line_1_1' title="bbox 1298 1028 3168 4144; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1298 1028 3168 4144; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1715 4569 2816 4698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1715 4569 2816 4698">
+     <span class='ocr_line' id='line_1_2' title="bbox 1715 4569 2816 4698; baseline 0 -39"><span class='ocrx_word' id='word_1_2' title='bbox 1715 4576 1759 4648; x_wconf 35' lang='grc' dir='ltr'>’Τ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1816 4590 1833 4619; x_wconf 71' lang='lat'><em>²</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1903 4651 1973 4669; x_wconf 75' lang='grc'>,,,</span> <span class='ocrx_word' id='word_1_5' title='bbox 2017 4570 2045 4681; x_wconf 19' lang='lat' dir='ltr'>‘J</span> <span class='ocrx_word' id='word_1_6' title='bbox 2170 4569 2816 4698; x_wconf 63' lang='lat' dir='ltr'>DigitizedoyGOOgIC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1166 4515 3168 4898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1166 4515 3168 4898">
+     <span class='ocr_line' id='line_1_3' title="bbox 1166 4515 3168 4898; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1166 4515 2110 4898; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_8' title='bbox 3054 4860 3168 4898; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
